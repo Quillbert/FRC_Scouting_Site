@@ -4,7 +4,7 @@
   "description": "Scouting Site for FRC",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "start": "node index.js"
   },
   "author": "Andrew Hamby",
   "license": "MIT",
