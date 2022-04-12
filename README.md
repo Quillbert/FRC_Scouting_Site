@@ -1,1 +1,1 @@
-##FRC Scouting Site
+# FRC Scouting Site
